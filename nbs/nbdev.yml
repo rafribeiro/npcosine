@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "npcosine"
+  site-url: "https://rafribeiro.github.io/npcosine"
+  description: "Numpy-based cosine similarity optimized to generate same- and different-source scores"
+  repo-branch: main
+  repo-url: "https://github.com/rafribeiro/npcosine"
